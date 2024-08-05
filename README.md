@@ -30,4 +30,12 @@ The file provided here as source is a class material for Buddhist Philosophy tau
 
 ### Community
 
-Join the [ritoLAB discord] for discussions.
+Join the [ritoLAB discord](https://discord.gg/RKtnMzeCWF) for discussions.
+
+### Future Directions
+
+#### Maybe
+
+- Refactor code to be easier to read
+- Reformatting output to be able to be imported via Anki
+- Better Markdown creation
