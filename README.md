@@ -10,6 +10,10 @@
 
 - Modify the files according to your needs.
 
+A lower end GPU will be able to run it, but higher the VRAM, the better. Here's an NVTOP screengrab:
+
+![screengrab](screengrab.png)
+
 #### Steps to Set-Up
 
 1. Install Ollama in your system.
